@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995929305007",
+    "project_id": "photodemo-459c4",
+    "storage_bucket": "photodemo-459c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995929305007:android:b0dd138bff935c1af8895a",
+        "android_client_info": {
+          "package_name": "com.example.lab5_photo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2M0Ulcs4_H_qvyFW_CtxVFTSqATv0D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
